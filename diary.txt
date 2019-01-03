@@ -1,3 +1,4 @@
 2.1.19 leant to you 'git branch'
-3.1.19 I watched videos about Heroku and Docker
+3.1.19 I watched videos about Heroku (https://www.youtube.com/watch?v=QTOkqzCTGxw)  and Docker
+	found out what is PostgreSQL
 
