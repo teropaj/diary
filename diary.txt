@@ -2,7 +2,7 @@
 3.1.19 I watched videos about Heroku (https://www.youtube.com/watch?v=QTOkqzCTGxw)  and Docker(https://www.youtube.com/watch?v=UV3cw4QLJLs)
 	found out what is PostgreSQL
 4.1.19 11.5 hours PostgreSQL https://www.youtube.com/watch?v=aUfPf-clLLs
-5.1.19 participated firt time to Free Code Camp Helsinki in Redi
-6.1.19 made 'Hello Wolrd' in Angular
-
+	 participated firt time to Free Code Camp Helsinki in Redi
+5.1.19 made 'Hello Wolrd' in Angular
+	youtube https://www.youtube.com/watch?v=z4JUm0Bq9AM   Angular in 60 mins
 
