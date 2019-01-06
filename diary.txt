@@ -5,4 +5,5 @@
 	 participated firt time to Free Code Camp Helsinki in Redi
 5.1.19 made 'Hello Wolrd' in Angular
 	youtube https://www.youtube.com/watch?v=z4JUm0Bq9AM   Angular in 60 mins
+6.1.19 Made first Angular Component
 
