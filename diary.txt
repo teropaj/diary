@@ -6,6 +6,7 @@
 5.1.19 made 'Hello Wolrd' in Angular
 	youtube https://www.youtube.com/watch?v=z4JUm0Bq9AM   Angular in 60 mins
 6.1.19 Made first Angular Component
-7.1.19 Travery has a goog Angular video ass well https://www.youtube.com/watch?v=KhzGSHNhnbI
+7.1.19 Travery has a goog Angular video as well https://www.youtube.com/watch?v=KhzGSHNhnbI
        When I remember this git commit -am "Angular video" - so I put it here
-
+8.1.19 Read http://angular.io
+9.1.19 Docker volumes https://www.youtube.com/watch?v=pOGVngLsaX4
