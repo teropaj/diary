@@ -10,3 +10,5 @@
        When I remember this git commit -am "Angular video" - so I put it here
 8.1.19 Read http://angular.io
 9.1.19 Docker volumes https://www.youtube.com/watch?v=pOGVngLsaX4
+10.1.19 Installed Augury Angular-addon for Firefox
+11.1.19 I finally got Javabook from Adlibris. I read a few firt pages. It seems to be good. 
