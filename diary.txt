@@ -12,3 +12,8 @@
 9.1.19 Docker volumes https://www.youtube.com/watch?v=pOGVngLsaX4
 10.1.19 Installed Augury Angular-addon for Firefox
 11.1.19 I finally got Javabook from Adlibris. I read a few firt pages. It seems to be good. 
+13.1.19 Input/output error on harddisk. I formatted it. Now it's fine.
+14.1.19 Wordpress with Docker https://www.youtube.com/watch?v=pkp_Dr_4pOA
+        Firebase https://www.youtube.com/watch?v=JrHT1iqSrAQ
+16.1.19 https://www.youtube.com/watch?v=LSyIE-bTt5U
+
