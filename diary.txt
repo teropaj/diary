@@ -16,4 +16,7 @@
 14.1.19 Wordpress with Docker https://www.youtube.com/watch?v=pkp_Dr_4pOA
         Firebase https://www.youtube.com/watch?v=JrHT1iqSrAQ
 16.1.19 https://www.youtube.com/watch?v=LSyIE-bTt5U
+19.1.19 "You learn by doing" - Stefan  https://www.youtube.com/watch?v=mwZP9W8RKmk
+	40 pages about Redux https://www.adlibris.com/fi/kirja/learning-react-functional-web-development-with-react-and-redux-9781491954621
+20.1.19 Over hour Redux https://www.youtube.com/watch?v=93p3LxR9xfM 
 
