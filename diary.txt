@@ -20,5 +20,19 @@
 	40 pages about Redux https://www.adlibris.com/fi/kirja/learning-react-functional-web-development-with-react-and-redux-9781491954621
 20.1.19 Over hour Redux https://www.youtube.com/watch?v=93p3LxR9xfM 
 23.1.19 I don't like Travery Media's Redux video so I try this https://www.youtube.com/watch?v=OSSpVLpuVWA&t=875s
+        Two Redux examples gives me the same error. I don't know what to do.
+	https://github.com/michaelcheng924/redux-tutorial	
 
+	"TypeError: b is undefined
+	compose/</<
+	node_modules/redux/es/compose.js:29
+
+	  26 | 
+	  27 |   return funcs.reduce(function (a, b) {
+	  28 |     return function () {
+	> 29 |       return a(b.apply(undefined, arguments));
+	  30 |     };
+	  31 |   });
+	  32 | }
+	"
 
