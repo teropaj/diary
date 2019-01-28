@@ -37,4 +37,4 @@
 	"
 24.1.19 I was the whole day on Contact Forum https://www.contactforum.fi/ .
 	I repaired harddisk problem by disconnecting the hd. Then the desktop didn't boot but I repaired it with  livelinux and boot repair https://help.ubuntu.com/community/Boot-Repair
-
+28.1.19 Redux is not clear yet https://www.youtube.com/watch?v=kJeXr1K3nyg
