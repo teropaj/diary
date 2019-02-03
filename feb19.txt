@@ -1,1 +1,2 @@
 03.02.19  I've been learning Redux for a many days.For nothing. Context API in React https://www.youtube.com/watch?v=XLJN4JfniH4
+          Vue JS Crash Course by Traversy Media  https://www.youtube.com/watch?v=Wy9q22isx3U
