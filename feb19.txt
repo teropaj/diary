@@ -1,0 +1,1 @@
+03.02.19  I've been learning Redux for a many days.For nothing. Context API in React https://www.youtube.com/watch?v=XLJN4JfniH4
