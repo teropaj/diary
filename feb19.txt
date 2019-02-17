@@ -2,3 +2,4 @@
           Vue JS Crash Course by Traversy Media  https://www.youtube.com/watch?v=Wy9q22isx3U
 06.02.19  Linux boots faster https://askubuntu.com/questions/1034359/boot-hangs-for-30-seconds-at-begin-running-scripts-local-premount
 10.02.19 Nodejs https://www.youtube.com/watch?v=fBNz5xF-Kx4 and Electronjs of Traversy Media
+18.02.19 Javascript 3.5 hours https://www.youtube.com/watch?v=PkZNo7MFNFg
