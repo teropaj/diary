@@ -1,1 +1,4 @@
 Best about Redux https://www.youtube.com/watch?v=OSSpVLpuVWA
+18.03.19 TrversyMedia Python Crash course
+19.03.19 Python Django Crash Course https://www.youtube.com/watch?v=D6esTdOLXh4
+
