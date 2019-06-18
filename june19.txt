@@ -2,5 +2,5 @@
 09.06.19 Firebase basics https://www.youtube.com/watch?v=PP4Tr0l08NE
 12.06.19 Firebase-cli https://www.youtube.com/watch?v=9kRgVxULbag 
 13.06.19 Firebase series https://www.youtube.com/watch?v=m3TMPyQNAVs&list=PLGCjwl1RrtcRTbJ9WBL9exbUFNqwzz9if
-
+18.06.19 Firebase, React, Redux https://www.youtube.com/watch?v=Oi4v5uxTY5o&list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3
 
