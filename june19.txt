@@ -5,3 +5,4 @@
 18.06.19 Firebase, React, Redux https://www.youtube.com/watch?v=Oi4v5uxTY5o&list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3
 22.06.19 Firebase, React, Authentication https://www.youtube.com/watch?v=K_wZCW6wXIo
 23.06.19 Firebase Login Form https://www.youtube.com/watch?v=r4EsP6rovwk
+24.06.19 re-base react Firebase https://www.youtube.com/watch?v=vmLaZafaw9E&t=319s
