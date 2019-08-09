@@ -1,0 +1,2 @@
+09.08.19 React, Firebase by Classsed on Youtube  https://www.youtube.com/watch?v=RkBfu-W7tt0&list=PLMhAeHCz8S38ryyeMiBPPUnFAiWnoPvWP
+          github:https://github.com/hidjou/classsed-react-firebase-client
