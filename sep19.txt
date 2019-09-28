@@ -2,3 +2,5 @@
 03.09 I'm stuck with Firebase authentication. I home the NetNinja helps https://www.youtube.com/watch?v=aN1LnNq4z54&list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ&index=1
 17.09 React Firebase authentication with Hooks https://www.youtube.com/watch?v=unr4s3jd9qA
 21.09 Firebase Tutorial With React Hooks https://www.youtube.com/watch?v=rSgbYCdc4G0
+28.09 React Context Api tutorial https://www.youtube.com/watch?v=35lXWvCuM8o&t=763s
+
