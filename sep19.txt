@@ -3,4 +3,4 @@
 17.09 React Firebase authentication with Hooks https://www.youtube.com/watch?v=unr4s3jd9qA
 21.09 Firebase Tutorial With React Hooks https://www.youtube.com/watch?v=rSgbYCdc4G0
 28.09 React Context Api tutorial https://www.youtube.com/watch?v=35lXWvCuM8o&t=763s
-
+29.09 Firestore https://www.youtube.com/watch?v=rSgbYCdc4G0
