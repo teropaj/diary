@@ -4,3 +4,4 @@
 21.09 Firebase Tutorial With React Hooks https://www.youtube.com/watch?v=rSgbYCdc4G0
 28.09 React Context Api tutorial https://www.youtube.com/watch?v=35lXWvCuM8o&t=763s
 29.09 Firestore https://www.youtube.com/watch?v=rSgbYCdc4G0
+29.09 https://www.youtube.com/watch?v=rSgbYCdc4G0&t=99s Firebase Tutorial With React Hooks    Good boilerplate
