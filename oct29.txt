@@ -1,3 +1,5 @@
 02.10.19 https://www.youtube.com/watch?v=aN1LnNq4z54&list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ  Firebase Auth series
 5.10.19 https://www.youtube.com/watch?v=UZqXcoqC95E&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB&index=5    Back to the basics of Firebase
 6.10.19 https://www.youtube.com/watch?v=rSgbYCdc4G0&t=1176s   React Firebase basics
+9.10.19 https://www.youtube.com/watch?v=6uBgda52yEo  React Context Api tutorial
+
