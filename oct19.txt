@@ -2,4 +2,5 @@
 5.10.19 https://www.youtube.com/watch?v=UZqXcoqC95E&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB&index=5    Back to the basics of Firebase
 6.10.19 https://www.youtube.com/watch?v=rSgbYCdc4G0&t=1176s   React Firebase basics
 9.10.19 https://www.youtube.com/watch?v=6uBgda52yEo  React Context Api tutorial
-17.17.19 https://www.youtube.com/watch?v=7sJQBjn_cRQ&t=862s   Made HelloWorld with React Native
+17.10.19 https://www.youtube.com/watch?v=7sJQBjn_cRQ&t=862s   Made HelloWorld with React Native
+20.10.19 https://www.youtube.com/channel/UCvoobEofGnIkBOlm08_tMnA/playlists  Al lot of React Native videos
