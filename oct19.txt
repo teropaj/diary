@@ -4,3 +4,6 @@
 9.10.19 https://www.youtube.com/watch?v=6uBgda52yEo  React Context Api tutorial
 17.10.19 https://www.youtube.com/watch?v=7sJQBjn_cRQ&t=862s   Made HelloWorld with React Native
 20.10.19 https://www.youtube.com/channel/UCvoobEofGnIkBOlm08_tMnA/playlists  Al lot of React Native videos
+22.20.19 https://www.youtube.com/watch?v=KnwfK807Mgc&list=PLy9JCsy2u97m-xWAxGwHZ2vITtj4qBKDm   React-native firebase 
+25.10.19 https://www.youtube.com/watch?v=sBPTEgPGjsU  need to learn Firestore security rules
+
