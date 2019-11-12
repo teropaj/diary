@@ -1,3 +1,3 @@
 05.11.19 https://www.youtube.com/watch?v=JY279kbJ0KM   react-native-debugger tutorial
 8.11.19 https://www.youtube.com/watch?v=askXmFbOl84&t=463s   Docker with Digital Ocean
-
+22.11.19 https://www.youtube.com/watch?v=EMoXvr0Q9LE&list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h   Very good React Native tutorials 
