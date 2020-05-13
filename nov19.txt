@@ -2,3 +2,5 @@
 8.11.19 https://www.youtube.com/watch?v=askXmFbOl84&t=463s   Docker with Digital Ocean
 22.11.19 https://www.youtube.com/watch?v=EMoXvr0Q9LE&list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h   Very good React Native tutorials 
 19.11.19 https://www.youtube.com/watch?v=pNZks2j2Qaw&t=272s  React Native Firebase Auth
+	https://www.youtube.com/watch?v=bZj6uzNRs5E&list=PLy9JCsy2u97m-xWAxGwHZ2vITtj4qBKDm&index=3  Finally I found a good series about React Native + Firebase 
+
